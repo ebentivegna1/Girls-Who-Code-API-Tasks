@@ -1,4 +1,5 @@
 #Simple use case of Spotify API
+#If you don't have spotipy installed, pip install spotipy before using this script
 #Go to Spotify, look up an artist and click on the three dots button next to the following button for that artist
 #Once you click on that button grab the "Spotify URI" for that artist
 #THe Spotify URI will be what you input as the artist_key in the function
