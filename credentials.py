@@ -11,10 +11,10 @@ Step 3: Fill in the relevant information below
 """
 import pytumblr
 
-consumer_key='FozOJDiIYSYsK23oyg1DNjkM7BgfA3MFehb9uOzv9wfcyFzE93'
-consumer_secret='vyBqvg2hVWC2gCjPO59kSxikh8c2Iq8BHSeLL55lUguNvTJ11o'
-oauth_token='UILvKnralDxvXckwC1WH2H8YXB6CK0kqtcGl8weoEsVjkSTe6i'
-oauth_secret='DKLkma3Jh4fnHuNy8X9RC4z32cMn19mWjvknyPVuUbixdoTWBu'
+consumer_key=''
+consumer_secret=''
+oauth_token=''
+oauth_secret=''
 
 TUMBLR_CLIENT = pytumblr.TumblrRestClient(
         consumer_key,
