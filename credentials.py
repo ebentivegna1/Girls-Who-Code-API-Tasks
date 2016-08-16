@@ -1,5 +1,7 @@
 #Lists credentials needed for various API projects
 
+import pytumblr
+
 TUMBLR_CLIENT = pytumblr.TumblrRestClient(
   'FozOJDiIYSYsK23oyg1DNjkM7BgfA3MFehb9uOzv9wfcyFzE93',
   'vyBqvg2hVWC2gCjPO59kSxikh8c2Iq8BHSeLL55lUguNvTJ11o',
