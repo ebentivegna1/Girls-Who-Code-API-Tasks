@@ -1,3 +1,5 @@
+#Edit credentials.py to include the Tumblr credentials for your blog
+#See credentials.py for directions
 from credentials import TUMBLR_CLIENT
 
 #Edit this to be your blog name
